@@ -13,6 +13,17 @@ For release notes on Mendix Cloud and deployment options, see [Deployment](deplo
 
 ## 2021
 
+### 9th February, 2021
+
+#### New Features
+
+* Company admins are now able to change parts of the user interface in the create new app flow. The use of this feature needs to be requested via your customer success manager.
+
+#### Fixes
+
+* We improved the loading time of the create new app flow.
+* Fixed styling of the back button of the template details page in the create new app flow.
+
 ### February 5th, 2021
 
 #### Improvements
