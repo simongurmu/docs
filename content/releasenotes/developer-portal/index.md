@@ -13,7 +13,7 @@ For release notes on Mendix Cloud and deployment options, see [Deployment](deplo
 
 ## 2021
 
-### 9th February, 2021
+### February 9th, 2021
 
 #### New Features
 
